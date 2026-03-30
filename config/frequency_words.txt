@@ -1,2 +1,2 @@
-/GoogleGemini Alphabet AI模型 大语言模型 多模态模型 生成式AI Google DeepMind Gemini 1.0 Gemini 1.5 Gemini Ultra Gemini Pro Gemini Nano Moonshot Google AI Google Brain
-Demis Hassabis/ => Gemini
+[WORD_GROUPS]
+/Gemini|\bGemini\b|Google Gemini|Bard|谷歌Gemini/ => Gemini
